@@ -1,2 +1,3 @@
-# bozkurt-efkar
+# Bozkurt Efkar Tool'u
+Çiğer Bırakmayan Neştersiz Kesen Efkarlı Müzikleri Şarkıları Albümleri Koydum İyi Dinlemeler...
 Kendinizi üzmeye değmez takmayın kafanıza
