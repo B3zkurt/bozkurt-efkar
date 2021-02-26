@@ -1,7 +1,7 @@
 import webbrowser
 
 print("-----------------------------------")
-print("      Bozkurt Efkar Toolu :(       ")
+print("      Bozkurt Efkar Tool'u         ")
 print("                                   ")
 print("-----------------------------------")
 print()
@@ -17,6 +17,8 @@ print("8.Müslüm Baba Affet")
 print("9.Müslüm Baba Ayrılık Acı Bir şey")
 print("10.Müslüm Baba Hangimiz Sevmedik")
 print("11.Ali Kınık Üzülmedin mi?")
+print("12.Bilsen Şimdi Nerdeyim Çılgın Gecelerdeyim...")
+print("13.Bazen Vice")
 
 
 efkar = input("ne istersin be gardaşım :")
@@ -54,5 +56,10 @@ if efkar =="10":
 if efkar =="11":
     webbrowser.open_new("https://www.youtube.com/watch?v=HctKOy1DXCc")
     
+if efkar =="12":
+    webbrowser.open_new("https://www.youtube.com/watch?v=IHWfVSoBKic")
+    
+if efkar =="13":
+    webbrowser.open_new("https://www.youtube.com/watch?v=51jwCBO_R6I")
 
       
