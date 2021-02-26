@@ -19,6 +19,7 @@ print("10.Müslüm Baba Hangimiz Sevmedik")
 print("11.Ali Kınık Üzülmedin mi?")
 print("12.Bilsen Şimdi Nerdeyim Çılgın Gecelerdeyim...")
 print("13.Bazen Vice")
+print("14.Bazen2 Vice")
 
 
 efkar = input("ne istersin be gardaşım :")
@@ -61,5 +62,8 @@ if efkar =="12":
     
 if efkar =="13":
     webbrowser.open_new("https://www.youtube.com/watch?v=51jwCBO_R6I")
+    
+if efkar =="14":
+    webbrowser.open_new("https://www.youtube.com/watch?v=1KdEjbDjB-s")
 
       
