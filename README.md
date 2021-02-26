@@ -1,3 +1,2 @@
 # Bozkurt Efkar Tool'u
 Çiğer Bırakmayan Efkarlı Müzikleri Şarkıları Albümleri Koydum İyi Dinlemeler...
-Kendinizi üzmeye değmez takmayın kafanıza
